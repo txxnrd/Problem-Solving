@@ -11,7 +11,6 @@ void calculation(vector<int> vect)
 {
     int sum = 0;
     for (int i = 1; i < N; i++)
-    // cout << vect[i] << "";
     {
         sum += abs(vect[i] - vect[i - 1]);
     }
