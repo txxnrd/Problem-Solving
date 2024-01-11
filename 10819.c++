@@ -1,7 +1,6 @@
 #include <iostream>
 #include <algorithm>
 #include <string>
-#include <iostream>
 #include <cstdlib>
 
 using namespace std;
