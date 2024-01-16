@@ -11,7 +11,8 @@
     "string_view": "cpp",
     "unordered_map": "cpp",
     "queue": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "list": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }
